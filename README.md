@@ -28,5 +28,7 @@ Fotos de Pexels:
 - Imagem principal: Alexandre Saraiva Carniato
 - Galeria: Cottonbro, Claudio Emanuel, Gustavo Fring
 
+!Captura do template de barbearia (docs/captura-desktop.png)
+
 ## Autor
 Egon Ferreira
